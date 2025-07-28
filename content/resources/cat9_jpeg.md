@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ibratestcourse2/cat9.jpeg
+file: /courses/ibratestcourse2-ibratestcourse2-summer-2022/cat9.jpeg
 file_size: 13419
 file_type: image/jpeg
 image_metadata:
